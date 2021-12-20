@@ -4,7 +4,7 @@
       
 - 👀 I’m interested in biogeography, genomics, host-parasite interactions and climate change.
 
-- 🌱 I’m currently learning R, GIS and (triying to) python!
+- 🌱 I’m currently learning R, GIS and (trying to) python!
 
 - 💞️ I’m looking for quails samples! and I would love to collaborate in many projects!
 

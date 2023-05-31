@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Celia-Vinagre-Izquierdo (she/they)
+- 👋 Hi, I’m @Celia-Vinagre-Izquierdo (she/her)
       MSc in Biology with minor specialization in Ecology at University of Copenhagen.
       PhD Student at Doñana Biological Station (Estación Biológica de Doñana - CSIC).
       
